@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English"/>
+  </tags>
+  <strings>
+    <string id="st3hNa" text="Bonus Slots For"/>
+    <string id="FsrLvU" text="Who can receive extra recruitment slots from notables."/>
+    <string id="nY8kyK" text="General Settings"/>
+    <string id="Dt7T5Q" text="Prisoner Prosperity Value"/>
+    <string id="FZTOih" text="Prosperity increase for selling one prisoner."/>
+    <string id="wDiy1T" text="Militia Growth Bonus"/>
+    <string id="qbKYdD" text="Number of extra militia every day."/>
+    <string id="r7PmHe" text="Prosperity Growth Multiplier"/>
+    <string id="WWmXeh" text="The multiplier to overall prosperity and hearth growth rate."/>
+    <string id="2w9Irb" text="Garrison Settings"/>
+    <string id="iYJ2Aw" text="Modify food consumption and wages of garrison."/>
+    <string id="bYdOtk" text="Garrison Wages Multiplier"/>
+    <string id="zAi4b4" text="Multiplier for garrison wages."/>
+    <string id="XFGXdV" text="Garrison Food Consumption Multiplier"/>
+    <string id="S75wJJ" text="Multplier for garrison food consumption, and how many troops at garrison are lost because of food shortage."/>
+    <string id="NDmBnT" text="New Prosperity Model"/>
+    <string id="cboszz" text="Enable the new prosperity model. The new model gives settlements a natural new born growth rate and is affected by settlement capacity, trade, food storage and enemies around."/>
+    <string id="1DP3ee" text="Village Natural Growth Capacity"/>
+    <string id="udES1n" text="Natural growth capacity for village. 0 for unlimited."/>
+    <string id="8uSaMW" text="Town Natural Growth Capacity"/>
+    <string id="taQ8PZ" text="Natural growth capacity for towns. Trade, buildings and other bonus can boost prosperity beyond natural capacity. 0 for unlimited."/>
+    <string id="hkVfKG" text="Castle Natural Growth Capacity"/>
+    <string id="hjvM5R" text="Natural growth capacity for castles. Buildings and other bonus can boost prosperity beyond natural capacity. 0 for unlimited."/>
+    <string id="vmWeg5" text="Town Minimum Prosperity for Recruit"/>
+    <string id="5lAFED" text="If prosperity is below this value, a town will stop generating new recruits."/>
+    <string id="rRxcGb" text="Town Settings"/>
+    <string id="zfnNmH" text="Town Prosperity Threshold"/>
+    <string id="DCIx2W" text="The required prosperity for a town to generate more recruits."/>
+    <string id="SSS3Uk" text="Town Prosperity Per Bonus Slot"/>
+    <string id="hdv7FT" text="Amount of prosperity past the threshold required for one extra recruitment slot."/>
+    <string id="VvQ1N7" text="Town Recruit Prosperity Cost"/>
+    <string id="Fua09c" text="The prosperity cost for one recuit."/>
+    <string id="f0PBIT" text="Village Minimum Hearth for Recruit"/>
+    <string id="6J40z3" text="If hearth is below this value, a village will stop generating new recruits."/>
+    <string id="Sbl08S" text="Village Settings"/>
+    <string id="5gY7RW" text="Village Hearth Threshold"/>
+    <string id="XRf31f" text="The required hearth for a village to generate more recruits."/>
+    <string id="TdEny1" text="Village Hearth Per Bonus Slot"/>
+    <string id="Pa373a" text="Amount of hearth past the threshold required for one extra recruitment slot."/>
+    <string id="zkkSzM" text="Village Recruit Hearth Cost"/>
+    <string id="GnGQnu" text="The hearth cost for one recuit."/>
+    <string id="0A9Xwm" text="Castle Minimum Prosperity for Recruit"/>
+    <string id="QH4Z4u" text="If prosperity is below this value, a castle will stop generating new noble recruits."/>
+    <string id="DACgrG" text="Castle Settings"/>
+    <string id="2Qgisr" text="Castle Prosperity Threshold"/>
+    <string id="5mN2sb" text="Controls the chance of castles getting noble recruits. If prosperity reaches the threshold, the castle is guaranteed to get one noble recruit every day."/>
+    <string id="3eTGOO" text="Castle Recruit Prosperity Cost"/>
+    <string id="izsqza" text="Notable Power Threshold For Noble Recruit"/>
+    <string id="bh2GwT" text="Controls the chance of rural notables getting noble recruits. If power reaches the threshold, the notable is guaranteed to get notable recruits at every chance."/>
+    <string id="JZ32iR" text="Notable Settings"/>
+    <string id="CpOhvD" text="Notable Noble Recruit Power Cost"/>
+    <string id="45urKB" text="The power cost for one noble recuit."/>
+    <string id="iz6aMY" text="Population Loss"/>
+    <string id="YpDrMf" text="Enemy Around"/>
+    <string id="PBMzr8" text="Food Running Out"/>
+  </strings>
+</base>

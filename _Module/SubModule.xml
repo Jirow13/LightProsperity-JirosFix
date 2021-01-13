@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="Light Prosperity - Jiro's Fix"/>
+	<Id value="LightProsperity"/>
+	<Version value="v1.5.6.0"/>
+	<DefaultModule value="false"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+  <Official value="false"/>
+	<DependedModules>
+		<DependedModule Id="Native"/>
+		<DependedModule Id="SandBoxCore"/>
+		<DependedModule Id="Sandbox"/>
+		<DependedModule Id="CustomBattle"/>
+		<DependedModule Id="StoryMode"/>
+	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="LightProsperity"/>
+			<DLLName value="LightProsperity.dll"/>
+			<SubModuleClassType value="LightProsperity.SubModule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none" />
+				<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+		<SubModule>
+			<Name value="MCMv3 Integrated Loader"/>
+			<DLLName value="MCMv3.dll"/>
+			<SubModuleClassType value="MCM.IntegratedLoaderSubModule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none" />
+				<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+</Module>
